@@ -1,0 +1,19 @@
+{
+  "name": "demo-ssh2-tunnel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blex41/demo-ssh2-tunnel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ssh2": "^0.8.2"
+  }
+}
